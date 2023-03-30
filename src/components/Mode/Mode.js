@@ -40,7 +40,7 @@ export default function Mode({ handleModeChange, setMode }) {
           </a>
         </li>
         <li>
-          <a>
+          <a href="https://twitter.com/pandey_3312" target='_blank'>
            <BsTwitter/>
           </a>
         </li>
